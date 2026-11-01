@@ -1,0 +1,27 @@
+VisuAlgo — Self-Assessment
+
+Website: https://visualgo.net/en
+
+1. Data Structures
+
+ -1. Segment Trees
+
+	I need more practice understanding how segment trees are constructed and how they handle range queries and updates efficiently.
+
+ -2. AVL Trees
+
+	I find tree rotations and balance-factor updates challenging, especially after insertions and deletions.
+
+2. Sorting Algorithms
+
+3. Quick Sort
+
+	I need to improve my understanding of the partitioning process, pivot selection, and how these choices affect performance.
+
+4. Radix Sort
+
+	I need more practice understanding how sorting elements by individual digits or positions produces a correctly sorted result.
+
+ Learning Plan
+
+	I will use VisuAlgo to test these concepts step by step, observe how each algorithm operates, and practice implementing them in code until I can explain their logic and analyze their complexity independently.
